@@ -8,5 +8,7 @@ Aplikasi ini secara umum digunakan untuk keperluan CRUD data buku, CRUD data kat
 
 https://bookuask3517014.000webhostapp.com/book/
 
+operator: calvin , pass: 123
+
 Calvin Mikhailouzna Gibran (K3517014)
 
